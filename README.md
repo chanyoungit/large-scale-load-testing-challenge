@@ -2,20 +2,20 @@
 
 ## 팀원 구성 및 역할
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 박찬영 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한주리 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 김민제 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 홍진호 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th style="text-align: center; width: 25%;">박찬영</th>
+    <th style="text-align: center; width: 25%;">한주리</th>
+    <th style="text-align: center; width: 25%;">김민제</th>
+    <th style="text-align: center; width: 25%;">홍진호</th>
   </tr>
   <tr>
-    <td>- Back-end <br> - DevOps</td>
-    <td>- Front-end</td>
-    <td>- Back-end</td>
-    <td>- Cloud</td>
+    <td style="text-align: center; width: 25%;">- Back-end <br> - DevOps</td>
+    <td style="text-align: center; width: 25%;">- Front-end</td>
+    <td style="text-align: center; width: 25%;">- Back-end</td>
+    <td style="text-align: center; width: 25%;">- Cloud</td>
   </tr>
-</table>                                                                                                                                
+</table>                                                                                                                      
 
 <br>
 
