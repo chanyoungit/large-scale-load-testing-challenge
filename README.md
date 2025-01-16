@@ -4,18 +4,20 @@
 
 <table style="width: 100%;">
   <tr>
-    <th style="text-align: center; width: 25%;">박찬영</th>
-    <th style="text-align: center; width: 25%;">한주리</th>
-    <th style="text-align: center; width: 25%;">김민제</th>
-    <th style="text-align: center; width: 25%;">홍진호</th>
+    <th style="text-align: center; width: 20%;">박찬영</th>
+    <th style="text-align: center; width: 20%;">한주리</th>
+    <th style="text-align: center; width: 20%;">김민제</th>
+    <th style="text-align: center; width: 20%;">홍진호</th>
+    <th style="text-align: center; width: 20%;">박현혜</th>
   </tr>
   <tr>
-    <td style="text-align: center; width: 25%;">- Back-end <br> - DevOps</td>
-    <td style="text-align: center; width: 25%;">- Front-end</td>
-    <td style="text-align: center; width: 25%;">- Back-end</td>
-    <td style="text-align: center; width: 25%;">- Cloud</td>
+    <td style="text-align: center; width: 20%;">- Back-end </td>
+    <td style="text-align: center; width: 20%;">- Front-end</td>
+    <td style="text-align: center; width: 20%;">- Back-end</td>
+    <td style="text-align: center; width: 20%;">- DevOps</td>
+    <td style="text-align: center; width: 20%;">- AI</td>
   </tr>
-</table>                                                                                                                      
+</table>                                                                                                                   
 
 <br>
 
