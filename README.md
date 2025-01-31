@@ -120,7 +120,7 @@
 
 ### Back
 - Message Queue
-  - Kafka와 RabbitMQ룰 밗
+  - Kafka와 RabbitMQ를 고려
     - RabbitMQ는 Push 모델 기반으로 설계되어 Kafka보다 레이턴시가 낮고 메세지 전달 보장이 되어 소켓 통신에 유리 
   - 그러나 RabbitMQ를 사용할 경우, 대량의 메세지와 WebSocket 연결에 따라 병목 현상 우려
     - 최대 3000명까지 WebSocket 연결이 이루어지고, 메세지가 지속적으로 송수신되어 RabbitMQ 큐에 쌓임
